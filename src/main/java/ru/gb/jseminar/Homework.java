@@ -11,25 +11,26 @@ public class Homework {
     }
 
     // Нужно удалить из него четные числа
-    public List<Integer> removeNegativeValue(List<Integer> list){
+    public List<Integer> removeNegativeValue(List<Integer> list) {
 
         return new ArrayList<>();
     }
 
     // Найти минимальное значение
-    public Integer getMin(List<Integer> list){
+    public Integer getMin(List<Integer> list) {
 
         return 0;
     }
 
     // Найти максимальное значение
-    public Integer getMax(List<Integer> list){
+    public Integer getMax(List<Integer> list) {
 
         return 0;
     }
 
     // Найти среднее значение
     public Integer getAverage(List<Integer> list){
+        
 
         return 0;
     }
